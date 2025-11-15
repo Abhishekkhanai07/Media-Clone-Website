@@ -243,15 +243,26 @@ model Post {
 <hr>
 
 <h2>📷 Screenshots</h2>
-<p>You can add later:</p>
-<ul>
-<li>Dashboard</li>
-<li>Post Page</li>
-<li>Create Post</li>
-<li>Signup / Login</li>
-</ul>
+<p>Below are the UI screenshots of the Medium Social App:</p>
+
+<h3>📝 Posts Page</h3>
+<img src="https://github.com/Abhishekkhanai07/Media-Clone-Website/blob/9fbbabfe3191b48818d503901c747405af26f9f3/media-Output/Post%20page.png" />
+
+<br><br>
+
+<h3>✍️ Create Post (Publish Page)</h3>
+<img src="https://github.com/Abhishekkhanai07/Media-Clone-Website/blob/9fbbabfe3191b48818d503901c747405af26f9f3/media-Output/create%20post.png" />
+
+<br><br>
+
+<h3>👤 Signin Page</h3>
+<img src="https://github.com/Abhishekkhanai07/Media-Clone-Website/blob/9fbbabfe3191b48818d503901c747405af26f9f3/media-Output/signin%20page.png" />
+
+<br><br>
+
 
 <hr>
+
 
 <h2>👤 Author</h2>
 
